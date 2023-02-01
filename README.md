@@ -1,2 +1,2 @@
-# advent-of-code-2022
-Advent of Code 2022 Solutions
+# Advent of Code 2022
+(aka what little I had time to do)
